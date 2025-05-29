@@ -1,6 +1,6 @@
 # Bishal Panthi - Portfolio Website
 
-Personal portfolio website showcasing my work as a DevOps Engineer and Payment Systems Specialist.
+Personal portfolio website.
 
 ## Live Site
 [View Portfolio](https://bishalpanthi.com.np)
