@@ -8,5 +8,4 @@ Personal portfolio website.
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-- Font Awesome Icons
+- JavaScrip
